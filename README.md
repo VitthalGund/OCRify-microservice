@@ -1,6 +1,3 @@
-Absolutely! Let's add some emojis to make the README more engaging. Here's the revised version:
-
----
 
 # OCRify Microservice 🖼️🔍
 
@@ -61,7 +58,3 @@ Contributions to OCRify Microservice are welcome! Feel free to fork the reposito
 ## License 📝
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize and expand upon this README as needed. Let me know if there are any further adjustments you'd like to make!
